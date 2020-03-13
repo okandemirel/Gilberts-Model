@@ -3,6 +3,9 @@
 This is a example for Gilberts Magnet Model, made with Unity 3D.
 
 
+![Gilberts Model_1](https://user-images.githubusercontent.com/19361758/76651701-1a4cab80-6576-11ea-9349-831ec4ce86de.gif)
+
+
 
 Added two scenes.
 One of these scene is working with raycastin for controls, and the other one is for screen touch & drag controls.
